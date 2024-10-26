@@ -1,15 +1,14 @@
 import streamlit as st
 import pandas as pd
 from twilio.rest import Client
-import os
 
 # Load the court scenarios CSV file
 df_scenarios = pd.read_csv('court_scenarios.csv')
 
 # Twilio Configuration
-TWILIO_ACCOUNT_SID = os.getenv('TWILIO_ACCOUNT_SID', 'ACeb2e00c573cc46e4bfd467e85d714d76')  # Your Twilio account SID
-TWILIO_AUTH_TOKEN = os.getenv('TWILIO_AUTH_TOKEN', 'dbae0dba76afe09186159071adf3fb7d')      # Your Twilio Auth Token
-TWILIO_WHATSAPP_NUMBER = 'whatsapp:+14155238886'  # Your Twilio WhatsApp number (sandbox number)
+TWILIO_ACCOUNT_SID = st.secrets["twilio"]["account_sid"]  # Fetch from secrets
+TWILIO_AUTH_TOKEN = st.secrets["twilio"]["auth_token"]    # Fetch from secrets
+TWILIO_WHATSAPP_NUMBER = st.secrets["twilio"]["whatsapp_number"]  # Fetch from secrets
 
 # Initialize Twilio client
 client = Client(TWILIO_ACCOUNT_SID, TWILIO_AUTH_TOKEN)
@@ -49,27 +48,19 @@ if st.button("Get Document Suggestions"):
         st.write("Please enter a case description to get suggestions.")
 
 # Client's WhatsApp number input
-client_name = st.text_input("Enter client's name:")
 client_whatsapp_number = st.text_input("Enter client's WhatsApp number (e.g., +1234567890):")
 
-# Appointment details input
-appointment_date = st.date_input("Select Appointment Date:")
-appointment_time = st.time_input("Select Appointment Time:")
-appointment_location = st.text_input("Enter Appointment Location:")
+# Client's name input
+client_name = st.text_input("Enter client's name:")
 
 # Button to send WhatsApp message
 if st.button("Send Document Collection Message"):
     if client_whatsapp_number and suggestions and client_name:
-        # Create a formatted message including appointment details with bullet points for documents
-        document_list = "\n".join([f"• {doc}" for doc in suggestions])  # Format documents with bullet points
+        # Create a formatted message
         message_body = (
             f"Hello there {client_name}!\n\n"
             f"Please bring the following documents while meeting your lawyer:\n"
-            f"{document_list}\n\n"
-            f"Appointment Details:\n"
-            f"Date: {appointment_date}\n"
-            f"Time: {appointment_time}\n"
-            f"Location: {appointment_location}\n\n"
+            f"{', '.join(suggestions)}\n\n"
             "Please make sure to bring these documents safely.\n\n"
             "Thank you!"
         )
@@ -83,4 +74,4 @@ if st.button("Send Document Collection Message"):
         except Exception as e:
             st.error(f"Failed to send message: {str(e)}")
     else:
-        st.warning("Please enter a valid WhatsApp number, client name, and ensure there are suggested documents.")
+        st.warning("Please enter a valid WhatsApp number, ensure there are suggested documents, and provide the client's name.")
