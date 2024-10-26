@@ -1,0 +1,502 @@
+[   
+    {
+        "id": 1,
+        "description": "Property dispute between neighbors",
+        "keywords": ["property", "dispute", "neighbors"]
+    },
+    {
+        "id": 2,
+        "description": "Fraud case involving bank fraud",
+        "keywords": ["fraud", "bank"]
+    },
+    {
+        "id": 3,
+        "description": "Personal injury from a vehicle accident",
+        "keywords": ["personal", "injury", "vehicle", "accident"]
+    },
+    {
+        "id": 4,
+        "description": "Employer breach of employment contract",
+        "keywords": ["employer", "breach", "employment", "contract"]
+    },
+    {
+        "id": 5,
+        "description": "Dispute regarding a rental agreement",
+        "keywords": ["dispute", "rental", "agreement"]
+    },
+    {
+        "id": 6,
+        "description": "Accusation of theft from workplace",
+        "keywords": ["accusation", "theft", "workplace"]
+    },
+    {
+        "id": 7,
+        "description": "Harassment claim at workplace",
+        "keywords": ["harassment", "workplace"]
+    },
+    {
+        "id": 8,
+        "description": "Insurance claim after house fire",
+        "keywords": ["insurance", "claim", "house", "fire"]
+    },
+    {
+        "id": 9,
+        "description": "Injury claim due to unsafe premises",
+        "keywords": ["injury", "unsafe", "premises"]
+    },
+    {
+        "id": 10,
+        "description": "Defamation accusation on social media",
+        "keywords": ["defamation", "social", "media"]
+    },
+    {
+        "id": 11,
+        "description": "Claim for unpaid salary by employer",
+        "keywords": ["claim", "unpaid", "salary", "employer"]
+    },
+    {
+        "id": 12,
+        "description": "Medical malpractice lawsuit",
+        "keywords": ["medical", "malpractice"]
+    },
+    {
+        "id": 13,
+        "description": "Dispute over inheritance rights",
+        "keywords": ["dispute", "inheritance", "rights"]
+    },
+    {
+        "id": 14,
+        "description": "Alleged breach of contract in partnership",
+        "keywords": ["breach", "contract", "partnership"]
+    },
+    {
+        "id": 15,
+        "description": "Domestic violence complaint",
+        "keywords": ["domestic", "violence"]
+    },
+    {
+        "id": 16,
+        "description": "Dispute over land encroachment",
+        "keywords": ["dispute", "land", "encroachment"]
+    },
+    {
+        "id": 17,
+        "description": "Allegation of cyberbullying",
+        "keywords": ["allegation", "cyberbullying"]
+    },
+    {
+        "id": 18,
+        "description": "Claim for unpaid rental income",
+        "keywords": ["claim", "unpaid", "rental", "income"]
+    },
+    {
+        "id": 19,
+        "description": "Dispute over medical insurance claim",
+        "keywords": ["dispute", "medical", "insurance", "claim"]
+    },
+    {
+        "id": 20,
+        "description": "Injury at construction site",
+        "keywords": ["injury", "construction", "site"]
+    },
+    {
+        "id": 21,
+        "description": "Trademark infringement by competitor",
+        "keywords": ["trademark", "infringement", "competitor"]
+    },
+    {
+        "id": 22,
+        "description": "Accusation of environmental law violation",
+        "keywords": ["accusation", "environmental", "law", "violation"]
+    },
+    {
+        "id": 23,
+        "description": "Claim for damages due to faulty product",
+        "keywords": ["claim", "damages", "faulty", "product"]
+    },
+    {
+        "id": 24,
+        "description": "Allegation of workplace discrimination",
+        "keywords": ["allegation", "workplace", "discrimination"]
+    },
+    {
+        "id": 25,
+        "description": "Illegal eviction from rented property",
+        "keywords": ["illegal", "eviction", "rented", "property"]
+    },
+    {
+        "id": 26,
+        "description": "Defamation through media publication",
+        "keywords": ["defamation", "media", "publication"]
+    },
+    {
+        "id": 27,
+        "description": "Claims of unpaid overtime",
+        "keywords": ["claims", "unpaid", "overtime"]
+    },
+    {
+        "id": 28,
+        "description": "Case involving tenant property damage",
+        "keywords": ["tenant", "property", "damage"]
+    },
+    {
+        "id": 29,
+        "description": "Breach of non-disclosure agreement",
+        "keywords": ["breach", "non-disclosure", "agreement"]
+    },
+    {
+        "id": 30,
+        "description": "Violation of personal data privacy",
+        "keywords": ["violation", "personal", "data", "privacy"]
+    },
+    {
+        "id": 31,
+        "description": "Accident injury due to unsafe work environment",
+        "keywords": ["accident", "injury", "unsafe", "work", "environment"]
+    },
+    {
+        "id": 32,
+        "description": "Forgery of important business documents",
+        "keywords": ["forgery", "business", "documents"]
+    },
+    {
+        "id": 33,
+        "description": "Insurance claim dispute for vehicle damage",
+        "keywords": ["insurance", "claim", "vehicle", "damage"]
+    },
+    {
+        "id": 34,
+        "description": "False allegations of bribery",
+        "keywords": ["false", "allegations", "bribery"]
+    },
+    {
+        "id": 35,
+        "description": "Dispute over land lease terms",
+        "keywords": ["dispute", "land", "lease", "terms"]
+    },
+    {
+        "id": 36,
+        "description": "Allegation of academic misconduct",
+        "keywords": ["allegation", "academic", "misconduct"]
+    },
+    {
+        "id": 37,
+        "description": "Claim against employer for wrongful termination",
+        "keywords": ["claim", "wrongful", "termination"]
+    },
+    {
+        "id": 38,
+        "description": "Lawsuit for infringement of intellectual property",
+        "keywords": ["lawsuit", "infringement", "intellectual", "property"]
+    },
+    {
+        "id": 39,
+        "description": "Dispute over terms of divorce settlement",
+        "keywords": ["dispute", "divorce", "settlement"]
+    },
+    {
+        "id": 40,
+        "description": "Injury caused by defective product",
+        "keywords": ["injury", "defective", "product"]
+    },
+    {
+        "id": 41,
+        "description": "Dispute in child custody arrangement",
+        "keywords": ["dispute", "child", "custody"]
+    },
+    {
+        "id": 42,
+        "description": "Claim of workplace harassment",
+        "keywords": ["claim", "workplace", "harassment"]
+    },
+    {
+        "id": 43,
+        "description": "Accusation of defamation via internet posts",
+        "keywords": ["accusation", "defamation", "internet", "posts"]
+    },
+    {
+        "id": 44,
+        "description": "Breach of agreement between business partners",
+        "keywords": ["breach", "agreement", "business", "partners"]
+    },
+    {
+        "id": 45,
+        "description": "Claim against tenant for property damage",
+        "keywords": ["claim", "tenant", "property", "damage"]
+    },
+    {
+        "id": 46,
+        "description": "Dispute over property inheritance",
+        "keywords": ["dispute", "property", "inheritance"]
+    },
+    {
+        "id": 47,
+        "description": "Medical negligence lawsuit",
+        "keywords": ["medical", "negligence"]
+    },
+    {
+        "id": 48,
+        "description": "Bank fraud involving unauthorized transactions",
+        "keywords": ["bank", "fraud", "unauthorized", "transactions"]
+    },
+    {
+        "id": 49,
+        "description": "Breach of rental agreement terms",
+        "keywords": ["breach", "rental", "agreement", "terms"]
+    },
+    {
+        "id": 50,
+        "description": "Fraud involving fake job offers",
+        "keywords": ["fraud", "fake", "job", "offers"]
+    },
+    {
+        "id": 51,
+        "description": "Accusation of plagiarism in academic work",
+        "keywords": ["accusation", "plagiarism", "academic", "work"]
+    },
+    {
+        "id": 52,
+        "description": "Dispute regarding family business inheritance",
+        "keywords": ["dispute", "family", "business", "inheritance"]
+    },
+    {
+        "id": 53,
+        "description": "Claim for compensation after natural disaster",
+        "keywords": ["claim", "compensation", "natural", "disaster"]
+    },
+    {
+        "id": 54,
+        "description": "Cybersecurity breach involving data theft",
+        "keywords": ["cybersecurity", "breach", "data", "theft"]
+    },
+    {
+        "id": 55,
+        "description": "Wrongful imprisonment claim",
+        "keywords": ["wrongful", "imprisonment", "claim"]
+    },
+    {
+        "id": 56,
+        "description": "Legal battle over child support payments",
+        "keywords": ["legal", "battle", "child", "support", "payments"]
+    },
+    {
+        "id": 57,
+        "description": "Accusation of fraudulent insurance claim",
+        "keywords": ["accusation", "fraudulent", "insurance", "claim"]
+    },
+    {
+        "id": 58,
+        "description": "Dispute over ownership of intellectual property",
+        "keywords": ["dispute", "ownership", "intellectual", "property"]
+    },
+    {
+        "id": 59,
+        "description": "Claim for property damage from natural disaster",
+        "keywords": ["claim", "property", "damage", "natural", "disaster"]
+    },
+    {
+        "id": 60,
+        "description": "Accusation of workplace safety violations",
+        "keywords": ["accusation", "workplace", "safety", "violations"]
+    },
+    {
+        "id": 61,
+        "description": "Alleged violation of trade secrets",
+        "keywords": ["alleged", "violation", "trade", "secrets"]
+    },
+    {
+        "id": 62,
+        "description": "Case involving cyberstalking",
+        "keywords": ["case", "cyberstalking"]
+    },
+    {
+        "id": 63,
+        "description": "Breach of privacy in medical records",
+        "keywords": ["breach", "privacy", "medical", "records"]
+    },
+    {
+        "id": 64,
+        "description": "Contractor dispute over building construction",
+        "keywords": ["contractor", "dispute", "building", "construction"]
+    },
+    {
+        "id": 65,
+        "description": "Dispute over estate planning and will execution",
+        "keywords": ["dispute", "estate", "planning", "will", "execution"]
+    },
+    {
+        "id": 66,
+        "description": "Defamation on public media platforms",
+        "keywords": ["defamation", "public", "media", "platforms"]
+    },
+    {
+        "id": 67,
+        "description": "Accusation of property theft",
+        "keywords": ["accusation", "property", "theft"]
+    },
+    {
+        "id": 68,
+        "description": "Breach of freelance work contract",
+        "keywords": ["breach", "freelance", "work", "contract"]
+    },
+    {
+        "id": 69,
+        "description": "Harassment claim involving cyberbullying",
+        "keywords": ["harassment", "cyberbullying"]
+    },
+    {
+        "id": 70,
+        "description": "Landlord eviction without notice",
+        "keywords": ["landlord", "eviction", "without", "notice"]
+    },
+    {
+        "id": 71,
+        "description": "Claim for compensation in medical injury",
+        "keywords": ["claim", "compensation", "medical", "injury"]
+    },
+    {
+        "id": 72,
+        "description": "Dispute in a dissolved business partnership",
+        "keywords": ["dispute", "dissolved", "business", "partnership"]
+    },
+    {
+        "id": 73,
+        "description": "Unlawful repossession of vehicle",
+        "keywords": ["unlawful", "repossession", "vehicle"]
+    },
+    {
+        "id": 74,
+        "description": "Claim for damage caused by pollution",
+        "keywords": ["claim", "damage", "pollution"]
+    },
+    {
+        "id": 75,
+        "description": "Dispute over price manipulation in trading",
+        "keywords": ["dispute", "price", "manipulation", "trading"]
+    },
+    {
+        "id": 76,
+        "description": "Employment discrimination based on gender",
+        "keywords": ["employment", "discrimination", "gender"]
+    },
+    {
+        "id": 77,
+        "description": "Dispute over terms of a financial loan",
+        "keywords": ["dispute", "terms", "financial", "loan"]
+    },
+    {
+        "id": 78,
+        "description": "Accusation of fraudulent scientific research",
+        "keywords": ["accusation", "fraudulent", "scientific", "research"]
+    },
+    {
+        "id": 79,
+        "description": "Claim of unpaid child support",
+        "keywords": ["claim", "unpaid", "child", "support"]
+    },
+    {
+        "id": 80,
+        "description": "Dispute over real estate commission fees",
+        "keywords": ["dispute", "real", "estate", "commission", "fees"]
+    },
+    {
+        "id": 81,
+        "description": "Lawsuit over fraudulent land acquisition",
+        "keywords": ["lawsuit", "fraudulent", "land", "acquisition"]
+    },
+    {
+        "id": 82,
+        "description": "Accusation of data privacy breach",
+        "keywords": ["accusation", "data", "privacy", "breach"]
+    },
+    {
+        "id": 83,
+        "description": "Allegation of embezzlement in corporate funds",
+        "keywords": ["allegation", "embezzlement", "corporate", "funds"]
+    },
+    {
+        "id": 84,
+        "description": "Dispute over violation of building codes",
+        "keywords": ["dispute", "violation", "building", "codes"]
+    },
+    {
+        "id": 85,
+        "description": "Claim of illegal workplace termination",
+        "keywords": ["claim", "illegal", "workplace", "termination"]
+    },
+    {
+        "id": 86,
+        "description": "Complaint of noise pollution violation",
+        "keywords": ["complaint", "noise", "pollution", "violation"]
+    },
+    {
+        "id": 87,
+        "description": "Lawsuit involving loss from counterfeit products",
+        "keywords": ["lawsuit", "loss", "counterfeit", "products"]
+    },
+    {
+        "id": 88,
+        "description": "Defamation lawsuit due to false accusations",
+        "keywords": ["defamation", "lawsuit", "false", "accusations"]
+    },
+    {
+        "id": 89,
+        "description": "Unlawful seizure of assets",
+        "keywords": ["unlawful", "seizure", "assets"]
+    },
+    {
+        "id": 90,
+        "description": "Case involving damage to rented property",
+        "keywords": ["case", "damage", "rented", "property"]
+    },
+    {
+        "id": 91,
+        "description": "Claim of fraudulent business scheme",
+        "keywords": ["claim", "fraudulent", "business", "scheme"]
+    },
+    {
+        "id": 92,
+        "description": "Complaint of unpaid employee bonuses",
+        "keywords": ["complaint", "unpaid", "employee", "bonuses"]
+    },
+    {
+        "id": 93,
+        "description": "Dispute over travel insurance claims",
+        "keywords": ["dispute", "travel", "insurance", "claims"]
+    },
+    {
+        "id": 94,
+        "description": "Breach of contract in supply chain",
+        "keywords": ["breach", "contract", "supply", "chain"]
+    },
+    {
+        "id": 95,
+        "description": "Claims of infringement in patent dispute",
+        "keywords": ["claims", "infringement", "patent", "dispute"]
+    },
+    {
+        "id": 96,
+        "description": "Breach of fiduciary duties by trustee",
+        "keywords": ["breach", "fiduciary", "duties", "trustee"]
+    },
+    {
+        "id": 97,
+        "description": "Employer accused of racial discrimination",
+        "keywords": ["employer", "accused", "racial", "discrimination"]
+    },
+    {
+        "id": 98,
+        "description": "Illegal sale of inherited property",
+        "keywords": ["illegal", "sale", "inherited", "property"]
+    },
+    {
+        "id": 99,
+        "description": "Dispute over unauthorized bank withdrawals",
+        "keywords": ["dispute", "unauthorized", "bank", "withdrawals"]
+    },
+    {
+        "id": 100,
+        "description": "Allegation of unauthorized business transaction",
+        "keywords": ["allegation", "unauthorized", "business", "transaction"]
+    }
+]

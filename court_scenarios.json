@@ -1,0 +1,602 @@
+[
+    {
+        "id": 1,
+        "description": "Property dispute between neighbors",
+        "document_suggestions": ["Property deeds", "Official letters", "Legal notices"],
+        "validation": "These documents are essential to prove your case strong."
+    },
+    {
+        "id": 2,
+        "description": "Fraud case involving bank fraud",
+        "document_suggestions": ["Bank statements", "Emails", "Affidavits"],
+        "validation": "These documents are essential to prove your case strong."
+    },
+    {
+        "id": 3,
+        "description": "Personal injury from a vehicle accident",
+        "document_suggestions": ["Medical reports", "Witness statements", "Police reports"],
+        "validation": "These documents are essential to prove your case strong."
+    },
+    {
+        "id": 4,
+        "description": "Employer breach of employment contract",
+        "document_suggestions": ["Contracts", "Official letters", "Emails"],
+        "validation": "These documents are essential to prove your case strong."
+    },
+    {
+        "id": 5,
+        "description": "Dispute regarding a rental agreement",
+        "document_suggestions": ["Rental agreements", "Witness statements", "Emails"],
+        "validation": "These documents are essential to prove your case strong."
+    },
+    {
+        "id": 6,
+        "description": "Accusation of theft from workplace",
+        "document_suggestions": ["Police reports", "Video evidence", "Witness statements"],
+        "validation": "These documents are essential to prove your case strong."
+    },
+    {
+        "id": 7,
+        "description": "Harassment claim at workplace",
+        "document_suggestions": ["Emails", "Witness statements", "Official letters"],
+        "validation": "These documents are essential to prove your case strong."
+    },
+    {
+        "id": 8,
+        "description": "Insurance claim after house fire",
+        "document_suggestions": ["Insurance policies", "Photographs", "Police reports"],
+        "validation": "These documents are essential to prove your case strong."
+    },
+    {
+        "id": 9,
+        "description": "Injury claim due to unsafe premises",
+        "document_suggestions": ["Medical reports", "Witness statements", "Photographs"],
+        "validation": "These documents are essential to prove your case strong."
+    },
+    {
+        "id": 10,
+        "description": "Defamation accusation on social media",
+        "document_suggestions": ["Social media posts", "Emails", "Affidavits"],
+        "validation": "These documents are essential to prove your case strong."
+    },
+    {
+        "id": 11,
+        "description": "Claim for unpaid salary by employer",
+        "document_suggestions": ["Bank statements", "Contracts", "Official letters"],
+        "validation": "These documents are essential to prove your case strong."
+    },
+    {
+        "id": 12,
+        "description": "Medical malpractice lawsuit",
+        "document_suggestions": ["Medical reports", "Witness statements", "Expert witness reports"],
+        "validation": "These documents are essential to prove your case strong."
+    },
+    {
+        "id": 13,
+        "description": "Dispute over inheritance rights",
+        "document_suggestions": ["Property deeds", "Legal notices", "Official letters"],
+        "validation": "These documents are essential to prove your case strong."
+    },
+    {
+        "id": 14,
+        "description": "Alleged breach of contract in partnership",
+        "document_suggestions": ["Contracts", "Emails", "Witness statements"],
+        "validation": "These documents are essential to prove your case strong."
+    },
+    {
+        "id": 15,
+        "description": "Domestic violence complaint",
+        "document_suggestions": ["Medical reports", "Witness statements", "Police reports"],
+        "validation": "These documents are essential to prove your case strong."
+    },
+    {
+        "id": 16,
+        "description": "Dispute over land encroachment",
+        "document_suggestions": ["Property deeds", "Witness statements", "Official letters"],
+        "validation": "These documents are essential to prove your case strong."
+    },
+    {
+        "id": 17,
+        "description": "Allegation of cyberbullying",
+        "document_suggestions": ["Social media posts", "Emails", "Witness statements"],
+        "validation": "These documents are essential to prove your case strong."
+    },
+    {
+        "id": 18,
+        "description": "Claim for unpaid rental income",
+        "document_suggestions": ["Rental agreements", "Bank statements", "Legal notices"],
+        "validation": "These documents are essential to prove your case strong."
+    },
+    {
+        "id": 19,
+        "description": "Dispute over medical insurance claim",
+        "document_suggestions": ["Insurance policies", "Medical reports", "Official letters"],
+        "validation": "These documents are essential to prove your case strong."
+    },
+    {
+        "id": 20,
+        "description": "Injury at construction site",
+        "document_suggestions": ["Medical reports", "Witness statements", "Photographs"],
+        "validation": "These documents are essential to prove your case strong."
+    },
+    {
+        "id": 21,
+        "description": "Trademark infringement by competitor",
+        "document_suggestions": ["Trademark registration", "Business contracts", "Emails"],
+        "validation": "These documents are essential to prove your case strong."
+    },
+    {
+        "id": 22,
+        "description": "Accusation of environmental law violation",
+        "document_suggestions": ["Environmental reports", "Expert witness reports", "Official letters"],
+        "validation": "These documents are essential to prove your case strong."
+    },
+    {
+        "id": 23,
+        "description": "Claim for damages due to faulty product",
+        "document_suggestions": ["Purchase receipts", "Witness statements", "Photographs"],
+        "validation": "These documents are essential to prove your case strong."
+    },
+    {
+        "id": 24,
+        "description": "Allegation of workplace discrimination",
+        "document_suggestions": ["Emails", "Official letters", "Witness statements"],
+        "validation": "These documents are essential to prove your case strong."
+    },
+    {
+        "id": 25,
+        "description": "Illegal eviction from rented property",
+        "document_suggestions": ["Rental agreements", "Legal notices", "Witness statements"],
+        "validation": "These documents are essential to prove your case strong."
+    },
+    {
+        "id": 26,
+        "description": "Defamation through media publication",
+        "document_suggestions": ["Publication copies", "Affidavits", "Witness statements"],
+        "validation": "These documents are essential to prove your case strong."
+    },
+    {
+        "id": 27,
+        "description": "Claims of unpaid overtime",
+        "document_suggestions": ["Work schedules", "Employment contracts", "Emails"],
+        "validation": "These documents are essential to prove your case strong."
+    },
+    {
+        "id": 28,
+        "description": "Case involving tenant property damage",
+        "document_suggestions": ["Rental agreements", "Photographs", "Witness statements"],
+        "validation": "These documents are essential to prove your case strong."
+    },
+    {
+        "id": 29,
+        "description": "Breach of non-disclosure agreement",
+        "document_suggestions": ["Non-disclosure agreements", "Emails", "Official letters"],
+        "validation": "These documents are essential to prove your case strong."
+    },
+    {
+        "id": 30,
+        "description": "Violation of personal data privacy",
+        "document_suggestions": ["Data privacy policies", "Official letters", "Witness statements"],
+        "validation": "These documents are essential to prove your case strong."
+    },
+    {
+        "id": 31,
+        "description": "Accident injury due to unsafe work environment",
+        "document_suggestions": ["Medical reports", "Photographs", "Witness statements"],
+        "validation": "These documents are essential to prove your case strong."
+    },
+    {
+        "id": 32,
+        "description": "Forgery of important business documents",
+        "document_suggestions": ["Forged documents", "Witness statements", "Emails"],
+        "validation": "These documents are essential to prove your case strong."
+    },
+    {
+        "id": 33,
+        "description": "Insurance claim dispute for vehicle damage",
+        "document_suggestions": ["Insurance policies", "Photographs", "Police reports"],
+        "validation": "These documents are essential to prove your case strong."
+    },
+    {
+        "id": 34,
+        "description": "False allegations of bribery",
+        "document_suggestions": ["Emails", "Witness statements", "Affidavits"],
+        "validation": "These documents are essential to prove your case strong."
+    },
+    {
+        "id": 35,
+        "description": "Dispute over land lease terms",
+        "document_suggestions": ["Lease agreements", "Official letters", "Witness statements"],
+        "validation": "These documents are essential to prove your case strong."
+    },
+    {
+        "id": 36,
+        "description": "Allegation of academic misconduct",
+        "document_suggestions": ["Emails", "Official letters", "Witness statements"],
+        "validation": "These documents are essential to prove your case strong."
+    },
+    {
+        "id": 37,
+        "description": "Claim against employer for wrongful termination",
+        "document_suggestions": ["Employment contract", "Official letters", "Witness statements"],
+        "validation": "These documents are essential to prove your case strong."
+    },
+    {
+        "id": 38,
+        "description": "Lawsuit for infringement of intellectual property",
+        "document_suggestions": ["Intellectual property documents", "Official letters", "Emails"],
+        "validation": "These documents are essential to prove your case strong."
+    },
+    {
+        "id": 39,
+        "description": "Dispute over terms of divorce settlement",
+        "document_suggestions": ["Marriage certificate", "Bank statements", "Property deeds"],
+        "validation": "These documents are essential to prove your case strong."
+    },
+    {
+        "id": 40,
+        "description": "Injury caused by defective product",
+        "document_suggestions": ["Medical reports", "Product purchase receipts", "Photographs"],
+        "validation": "These documents are essential to prove your case strong."
+    },
+    {
+        "id": 41,
+        "description": "Dispute in child custody arrangement",
+        "document_suggestions": ["Custody agreement", "Medical reports", "Witness statements"],
+        "validation": "These documents are essential to prove your case strong."
+    },
+    {
+        "id": 42,
+        "description": "Claim of workplace harassment",
+        "document_suggestions": ["Emails", "Witness statements", "Official letters"],
+        "validation": "These documents are essential to prove your case strong."
+    },
+    {
+        "id": 43,
+        "description": "Accusation of defamation via internet posts",
+        "document_suggestions": ["Social media posts", "Emails", "Affidavits"],
+        "validation": "These documents are essential to prove your case strong."
+    },
+    {
+        "id": 44,
+        "description": "Breach of agreement between business partners",
+        "document_suggestions": ["Business contracts", "Emails", "Official letters"],
+        "validation": "These documents are essential to prove your case strong."
+    },
+    {
+        "id": 45,
+        "description": "Claim against tenant for property damage",
+        "document_suggestions": ["Rental agreement", "Photographs", "Witness statements"],
+        "validation": "These documents are essential to prove your case strong."
+    },
+    {
+        "id": 46,
+        "description": "Dispute over property inheritance",
+        "document_suggestions": ["Property deeds", "Official letters", "Legal notices"],
+        "validation": "These documents are essential to prove your case strong."
+    },
+    {
+        "id": 47,
+        "description": "Medical negligence lawsuit",
+        "document_suggestions": ["Medical reports", "Expert witness reports", "Affidavits"],
+        "validation": "These documents are essential to prove your case strong."
+    },
+    {
+        "id": 48,
+        "description": "Bank fraud involving unauthorized transactions",
+        "document_suggestions": ["Bank statements", "Emails", "Police reports"],
+        "validation": "These documents are essential to prove your case strong."
+    },
+    {
+        "id": 49,
+        "description": "Breach of rental agreement terms",
+        "document_suggestions": ["Rental agreements", "Emails", "Witness statements"],
+        "validation": "These documents are essential to prove your case strong."
+    },
+    {
+        "id": 50,
+        "description": "Fraud involving fake job offers",
+        "document_suggestions": ["Emails", "Job offer letters", "Bank statements"],
+        "validation": "These documents are essential to prove your case strong."
+    }
+    {
+        "id": 51,
+        "description": "Accusation of plagiarism in academic work",
+        "document_suggestions": ["Original documents", "Emails", "Witness statements"],
+        "validation": "These documents are essential to prove your case strong."
+    },
+    {
+        "id": 52,
+        "description": "Dispute regarding family business inheritance",
+        "document_suggestions": ["Business registration documents", "Property deeds", "Legal notices"],
+        "validation": "These documents are essential to prove your case strong."
+    },
+    {
+        "id": 53,
+        "description": "Claim for compensation after natural disaster",
+        "document_suggestions": ["Insurance policies", "Photographs", "Official letters"],
+        "validation": "These documents are essential to prove your case strong."
+    },
+    {
+        "id": 54,
+        "description": "Cybersecurity breach involving data theft",
+        "document_suggestions": ["Emails", "System logs", "Official letters"],
+        "validation": "These documents are essential to prove your case strong."
+    },
+    {
+        "id": 55,
+        "description": "Wrongful imprisonment claim",
+        "document_suggestions": ["Police reports", "Witness statements", "Affidavits"],
+        "validation": "These documents are essential to prove your case strong."
+    },
+    {
+        "id": 56,
+        "description": "Legal battle over child support payments",
+        "document_suggestions": ["Bank statements", "Custody agreements", "Official letters"],
+        "validation": "These documents are essential to prove your case strong."
+    },
+    {
+        "id": 57,
+        "description": "Accusation of fraudulent insurance claim",
+        "document_suggestions": ["Insurance policies", "Medical reports", "Police reports"],
+        "validation": "These documents are essential to prove your case strong."
+    },
+    {
+        "id": 58,
+        "description": "Dispute over ownership of intellectual property",
+        "document_suggestions": ["Intellectual property registration", "Contracts", "Official letters"],
+        "validation": "These documents are essential to prove your case strong."
+    },
+    {
+        "id": 59,
+        "description": "Claim for property damage from natural disaster",
+        "document_suggestions": ["Insurance policies", "Photographs", "Witness statements"],
+        "validation": "These documents are essential to prove your case strong."
+    },
+    {
+        "id": 60,
+        "description": "Accusation of workplace safety violations",
+        "document_suggestions": ["Workplace safety records", "Photographs", "Witness statements"],
+        "validation": "These documents are essential to prove your case strong."
+    },
+    {
+        "id": 61,
+        "description": "Alleged violation of trade secrets",
+        "document_suggestions": ["Non-disclosure agreements", "Emails", "Official letters"],
+        "validation": "These documents are essential to prove your case strong."
+    },
+    {
+        "id": 62,
+        "description": "Case involving cyberstalking",
+        "document_suggestions": ["Social media records", "Emails", "Police reports"],
+        "validation": "These documents are essential to prove your case strong."
+    },
+    {
+        "id": 63,
+        "description": "Breach of privacy in medical records",
+        "document_suggestions": ["Medical records", "Official letters", "Witness statements"],
+        "validation": "These documents are essential to prove your case strong."
+    },
+    {
+        "id": 64,
+        "description": "Contractor dispute over building construction",
+        "document_suggestions": ["Building permits", "Contracts", "Witness statements"],
+        "validation": "These documents are essential to prove your case strong."
+    },
+    {
+        "id": 65,
+        "description": "Dispute over estate planning and will execution",
+        "document_suggestions": ["Will documents", "Official letters", "Legal notices"],
+        "validation": "These documents are essential to prove your case strong."
+    },
+    {
+        "id": 66,
+        "description": "Defamation on public media platforms",
+        "document_suggestions": ["Publication copies", "Witness statements", "Affidavits"],
+        "validation": "These documents are essential to prove your case strong."
+    },
+    {
+        "id": 67,
+        "description": "Accusation of property theft",
+        "document_suggestions": ["Police reports", "Witness statements", "Video evidence"],
+        "validation": "These documents are essential to prove your case strong."
+    },
+    {
+        "id": 68,
+        "description": "Breach of freelance work contract",
+        "document_suggestions": ["Work contracts", "Emails", "Bank statements"],
+        "validation": "These documents are essential to prove your case strong."
+    },
+    {
+        "id": 69,
+        "description": "Harassment claim involving cyberbullying",
+        "document_suggestions": ["Social media posts", "Emails", "Witness statements"],
+        "validation": "These documents are essential to prove your case strong."
+    },
+    {
+        "id": 70,
+        "description": "Landlord eviction without notice",
+        "document_suggestions": ["Rental agreements", "Legal notices", "Witness statements"],
+        "validation": "These documents are essential to prove your case strong."
+    },
+    {
+        "id": 71,
+        "description": "Claim for compensation in medical injury",
+        "document_suggestions": ["Medical reports", "Witness statements", "Expert witness reports"],
+        "validation": "These documents are essential to prove your case strong."
+    },
+    {
+        "id": 72,
+        "description": "Dispute in a dissolved business partnership",
+        "document_suggestions": ["Partnership agreement", "Bank statements", "Emails"],
+        "validation": "These documents are essential to prove your case strong."
+    },
+    {
+        "id": 73,
+        "description": "Unlawful repossession of vehicle",
+        "document_suggestions": ["Bank statements", "Vehicle purchase documents", "Witness statements"],
+        "validation": "These documents are essential to prove your case strong."
+    },
+    {
+        "id": 74,
+        "description": "Claim for damage caused by pollution",
+        "document_suggestions": ["Environmental reports", "Photographs", "Expert witness reports"],
+        "validation": "These documents are essential to prove your case strong."
+    },
+    {
+        "id": 75,
+        "description": "Dispute over price manipulation in trading",
+        "document_suggestions": ["Bank statements", "Emails", "Market analysis reports"],
+        "validation": "These documents are essential to prove your case strong."
+    },
+    {
+        "id": 76,
+        "description": "Employment discrimination based on gender",
+        "document_suggestions": ["Emails", "Witness statements", "Official letters"],
+        "validation": "These documents are essential to prove your case strong."
+    },
+    {
+        "id": 77,
+        "description": "Dispute over terms of a financial loan",
+        "document_suggestions": ["Loan agreements", "Bank statements", "Official letters"],
+        "validation": "These documents are essential to prove your case strong."
+    },
+    {
+        "id": 78,
+        "description": "Accusation of fraudulent scientific research",
+        "document_suggestions": ["Research reports", "Emails", "Witness statements"],
+        "validation": "These documents are essential to prove your case strong."
+    },
+    {
+        "id": 79,
+        "description": "Claim of unpaid child support",
+        "document_suggestions": ["Bank statements", "Custody agreements", "Legal notices"],
+        "validation": "These documents are essential to prove your case strong."
+    },
+    {
+        "id": 80,
+        "description": "Dispute over real estate commission fees",
+        "document_suggestions": ["Real estate contracts", "Emails", "Official letters"],
+        "validation": "These documents are essential to prove your case strong."
+    },
+    {
+        "id": 81,
+        "description": "Lawsuit over fraudulent land acquisition",
+        "document_suggestions": ["Property deeds", "Witness statements", "Affidavits"],
+        "validation": "These documents are essential to prove your case strong."
+    },
+    {
+        "id": 82,
+        "description": "Accusation of data privacy breach",
+        "document_suggestions": ["Data privacy policies", "Emails", "Witness statements"],
+        "validation": "These documents are essential to prove your case strong."
+    },
+    {
+        "id": 83,
+        "description": "Allegation of embezzlement in corporate funds",
+        "document_suggestions": ["Bank statements", "Financial audits", "Official letters"],
+        "validation": "These documents are essential to prove your case strong."
+    },
+    {
+        "id": 84,
+        "description": "Dispute over violation of building codes",
+        "document_suggestions": ["Building permits", "Photographs", "Official letters"],
+        "validation": "These documents are essential to prove your case strong."
+    },
+    {
+        "id": 85,
+        "description": "Claim of illegal workplace termination",
+        "document_suggestions": ["Employment contract", "Emails", "Witness statements"],
+        "validation": "These documents are essential to prove your case strong."
+    },
+    {
+        "id": 86,
+        "description": "Complaint of noise pollution violation",
+        "document_suggestions": ["Environmental reports", "Witness statements", "Official letters"],
+        "validation": "These documents are essential to prove your case strong."
+    },
+    {
+        "id": 87,
+        "description": "Lawsuit involving loss from counterfeit products",
+        "document_suggestions": ["Purchase receipts", "Product photographs", "Witness statements"],
+        "validation": "These documents are essential to prove your case strong."
+    },
+    {
+        "id": 88,
+        "description": "Defamation lawsuit due to false accusations",
+        "document_suggestions": ["Publication copies", "Emails", "Witness statements"],
+        "validation": "These documents are essential to prove your case strong."
+    },
+    {
+        "id": 89,
+        "description": "Unlawful seizure of assets",
+        "document_suggestions": ["Bank statements", "Official letters", "Witness statements"],
+        "validation": "These documents are essential to prove your case strong."
+    },
+    {
+        "id": 90,
+        "description": "Case involving damage to rented property",
+        "document_suggestions": ["Rental agreement", "Photographs", "Witness statements"],
+        "validation": "These documents are essential to prove your case strong."
+    },
+    {
+        "id": 91,
+        "description": "Claim of fraudulent business scheme",
+        "document_suggestions": ["Contracts", "Emails", "Official letters"],
+        "validation": "These documents are essential to prove your case strong."
+    },
+    {
+        "id": 92,
+        "description": "Complaint of unpaid employee bonuses",
+        "document_suggestions": ["Employment contract", "Emails", "Bank statements"],
+        "validation": "These documents are essential to prove your case strong."
+    },
+    {
+        "id": 93,
+        "description": "Dispute over travel insurance claims",
+        "document_suggestions": ["Insurance policies", "Photographs", "Official letters"],
+        "validation": "These documents are essential to prove your case strong."
+    },
+    {
+        "id": 94,
+        "description": "Breach of contract in supply chain",
+        "document_suggestions": ["Contracts", "Emails", "Invoices"],
+        "validation": "These documents are essential to prove your case strong."
+    },
+    {
+        "id": 95,
+        "description": "Claims of infringement in patent dispute",
+        "document_suggestions": ["Patent documents", "Official letters", "Emails"],
+        "validation": "These documents are essential to prove your case strong."
+    },
+    {
+        "id": 96,
+        "description": "Breach of fiduciary duties by trustee",
+        "document_suggestions": ["Trust documents", "Bank statements", "Official letters"],
+        "validation": "These documents are essential to prove your case strong."
+    },
+    {
+        "id": 97,
+        "description": "Employer accused of racial discrimination",
+        "document_suggestions": ["Emails", "Witness statements", "Official letters"],
+        "validation": "These documents are essential to prove your case strong."
+    },
+    {
+        "id": 98,
+        "description": "Illegal sale of inherited property",
+        "document_suggestions": ["Property deeds", "Legal notices", "Official letters"],
+        "validation": "These documents are essential to prove your case strong."
+    },
+    {
+        "id": 99,
+        "description": "Dispute over unauthorized bank withdrawals",
+        "document_suggestions": ["Bank statements", "Witness statements", "Police reports"],
+        "validation": "These documents are essential to prove your case strong."
+    },
+    {
+        "id": 100,
+        "description": "Allegation of unauthorized business transactions",
+        "document_suggestions": ["Contracts", "Bank statements", "Emails"],
+        "validation": "These documents are essential to prove your case strong."
+    }
+]
